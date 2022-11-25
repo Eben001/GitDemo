@@ -15,4 +15,8 @@ class MainActivity : AppCompatActivity() {
     fun login(){
         //Wow.... super clean login feature here
     }
+
+    fun getUserDetails(){
+        //getting user details in a clean way
+    }
 }
