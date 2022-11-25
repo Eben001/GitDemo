@@ -10,4 +10,9 @@ class MainActivity : AppCompatActivity() {
 
         //Hey look, a lot of code here... lots of them :)
     }
+
+
+    fun login(){
+        //Wow.... super clean login feature here
+    }
 }
