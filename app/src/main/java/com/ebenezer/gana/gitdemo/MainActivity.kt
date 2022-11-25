@@ -19,4 +19,8 @@ class MainActivity : AppCompatActivity() {
     fun getUserDetails(){
         //getting user details in a clean way
     }
+
+    fun awesomeLogout(){
+        //super unique way to log out a user
+    }
 }
